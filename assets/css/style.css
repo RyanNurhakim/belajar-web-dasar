@@ -16,7 +16,7 @@ body {
 }
 
 h2, h3 {
-  color: #75d1e1;
+  color: yellow
 }
 
 main {
@@ -30,7 +30,7 @@ main {
 }
 
 .jumbotron {
-  background: url("../img/IMG_20210605_160201.jpg");
+  background: url("../img/bannerUI.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -92,7 +92,7 @@ footer {
 
 nav {
   font-size: 18px;
-  background: linear-gradient(90deg, rgba(209,209,209,1) 2%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
+  background: black;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
   border-radius: 5px;
   padding-bottom: 10px;
@@ -101,7 +101,7 @@ nav {
 }
 
 nav a{
-  color: #75d1e1;
+  color: white
 }
 
 ul {
@@ -117,7 +117,7 @@ ul li {
 
 .logo {
   display: inline-block;
-  width: 65%;
+  width: 180px;
   margin-top: 15px;
   margin-left: 20px;
 }
@@ -194,7 +194,7 @@ ul li {
   }
 
   a:hover {
-    color: rgba(218, 218, 218, 0.58);
+    color: yellow
   }
 }
 
